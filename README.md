@@ -1,6 +1,8 @@
 # Análisis de Ventas-ES-
 *(ES) Análisis de Ventas de un Negocio Imaginario*
 
+![alt text](https://cdn.searchenginejournal.com/wp-content/uploads/2020/04/how-ecommerce-companies-can-care-for-their-customers-5eb56dfe6c64e.png)
+
 El presente trabajo, consiste en el pre procesamiento y visualización de un conjunto de datos ficticios, de un negocio de venta al público en Argentina.
 Se trabajó en una jupyter notebook el pre procesamiento y análisis preliminar del dataset, para finalmente utilizar la data procesada como input de un DashBoard de negocios en tableau.
 
